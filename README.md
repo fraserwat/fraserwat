@@ -16,9 +16,9 @@ For any data work, I'm fully booked until March 2022. But I also do **Frontend W
 
 - No surprises here - Python & SQL!
 - I've also used AWS for a bunch of different projects. AWS Lambda for deploying ML models as API endpoints, Athena for querying a massive data lake, etc.
-- The immediate user of most of my work are non-technical colleagues so I've also got a lot of use out of Tableau, Google Sheets, Sisense, etc.
+- The immediate users of most of my work are non-technical colleagues so I've also got a lot of use out of Tableau, Google Sheets, Sisense, etc.
 
-## 📫 How to reach me 📫
+## 📫 How to reach me 📫
 
 - 🐥 **Twitter**: [@fraserwtt](https://twitter.com/fraserwtt)
 - 👨‍🦰 <s>**My Website**: IN PROGRESS</s>
