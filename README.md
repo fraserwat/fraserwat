@@ -1,6 +1,6 @@
 ### Hi there, I'm Fraser 👋
 
-I'm currently working as a Data & Analytics Contractor. I specialise in Product Analytics and Business Insights, but I've also touched on Data Engineering work everywhere from startups to large enterprise companies.
+I'm currently working as a Data & Analytics Contractor. I specialise in Product Analytics and Business Insights, but I've also touched on Data Engineering work everywhere from startups to large enterprise companies, and will be starting a Data Science MSc in October 2022. 
 
 For any data work, I'm fully booked until March 2022. But I also do **Frontend Web Development**. 
 
